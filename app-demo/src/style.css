@@ -1,0 +1,38 @@
+.carousel-img {
+    object-fit: cover;
+    max-height: 72vh;
+  }
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  background: #4c87f5ec;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #3577f1;
+
+}
+
+
+
+
+  @media screen and (min-width: 768px) {
+    .content-center-mobile {
+      justify-content: center;
+    }
+  }
+  
