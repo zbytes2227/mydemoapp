@@ -14,21 +14,21 @@ function Slider() {
             <img
               src="./images/0000e.jpg"
               className="d-block w-100 carousel-img"
-              alt="..."
+              alt="Slider images 1"
             />
           </div>
           <div className="carousel-item carousel-div" data-bs-interval="3000">
             <img
               src="./images/imgS1.jpg"
               className="d-block w-100 carousel-img"
-              alt="..."
+              alt="Slider images 2"
             />
           </div>
           <div className="carousel-item carousel-div" data-bs-interval="3000">
             <img
               src="./images/91991.jpg"
               className="d-block w-100 carousel-img"
-              alt="..."
+              alt="Slider images 3"
             />
           </div>
         </div>
