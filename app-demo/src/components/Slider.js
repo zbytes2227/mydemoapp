@@ -10,21 +10,21 @@ function Slider() {
         data-bs-ride="carousel"
       >
         <div className="carousel-inner">
-          <div className="carousel-item active carousel-div" data-bs-interval="3000">
+          <div className="carousel-item active" data-bs-interval="3000">
             <img
               src="./images/0000e.jpg"
               className="d-block w-100 carousel-img"
               alt="Slider images 1"
             />
           </div>
-          <div className="carousel-item carousel-div" data-bs-interval="3000">
+          <div className="carousel-item" data-bs-interval="3000">
             <img
               src="./images/imgS1.jpg"
               className="d-block w-100 carousel-img"
               alt="Slider images 2"
             />
           </div>
-          <div className="carousel-item carousel-div" data-bs-interval="3000">
+          <div className="carousel-item" data-bs-interval="3000">
             <img
               src="./images/91991.jpg"
               className="d-block w-100 carousel-img"
