@@ -3,7 +3,9 @@
     max-height: 72vh;
   }
 
-
+  .carousel-div {
+    max-height: 72vh;
+  }
 
 /* width */
 ::-webkit-scrollbar {
